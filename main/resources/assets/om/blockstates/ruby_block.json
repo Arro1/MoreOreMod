@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "om:ruby_block" }
+    }
+}

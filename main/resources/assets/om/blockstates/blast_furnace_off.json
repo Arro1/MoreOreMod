@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "om:blast_furnace_off" },
+        "facing=south": { "model": "om:blast_furnace_off", "y": 180 },
+        "facing=west":  { "model": "om:blast_furnace_off", "y": 270 },
+        "facing=east":  { "model": "om:blast_furnace_off", "y": 90 }
+    }
+}
